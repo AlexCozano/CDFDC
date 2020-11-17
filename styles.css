@@ -1,0 +1,49 @@
+.navbar .navbar-brand {
+    font-size: 28px;
+}
+
+.navbar a {
+    color: blue !important;
+    font-size: 20px !important;
+    font-family: 'Galada', cursive !important;
+    font-family: 'Lato', sans-serif !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.slogan-home {
+    color: blue;
+    font-size: 24px;
+    font-family: 'Galada', cursive !important;
+    font-family: 'Lato', sans-serif !important;
+    font-family: 'Montserrat', sans-serif !important;
+    padding-top: 5%
+}
+
+.btn-outline-primary {
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+    font-size: 12px !important;
+    padding: 2px 10px !important;
+}
+
+.btn-primary {
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+    font-size: 12px !important;
+    padding: 2px 10px !important;
+}
+
+.cslogan {
+    color: blue;
+    font-size: 24px;
+    font-family: 'Galada', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 15px;
+}
